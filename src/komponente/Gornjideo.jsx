@@ -44,10 +44,10 @@ const Gornjideo = ({ zakazivanje }) => {
       <section className="contact" id="kontakt">
         <h2>Kontakt</h2>
         <p>Email: pesteracluka01@gmail.com</p>
-        <p>Telefon: +381 11 234 5678</p>
-        <p>Adresa: Nemanjina Ulica 32, Kruševac</p>
+        <p>Telefon: +381 062 842 3854</p>
+        <p>Adresa: Nemanjina 1, Kruševac</p>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d46245.21075296696!2d21.32509315768757!3d43.57893240560549!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1snemanjina%20ulica%20krusevac!5e0!3m2!1sen!2srs!4v1738065870292!5m2!1sen!2srs"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1669.581744330812!2d21.325647999165028!3d43.58221560002342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475687e5c7cdd8c9%3A0xc8ead83f7ee92b8b!2sNemanjina%201%2C%20Kru%C5%A1evac!5e0!3m2!1sen!2srs!4v1738327474861!5m2!1sen!2srs"
           allowfullscreen=""
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
